@@ -1,1 +1,1 @@
-Hello Node!
+this is writing method of node
